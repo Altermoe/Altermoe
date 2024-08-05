@@ -1,12 +1,11 @@
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-start;">
+<div>
     <img
         src="https://github-readme-stats-deploy-pwz36j60z-altermoe.vercel.app/api?username=Altermoe&count_private=true&show_icons=true&theme=vue&locale=cn"
-        style="height: 205px"
         alt="Altermoe's GitHub stats"
     />
+    <br/>
     <img
         src="https://github-readme-stats-deploy-pwz36j60z-altermoe.vercel.app/api/top-langs/?username=Altermoe&theme=vue&locale=cn"
-        style="height: 205px"
         alt="Altermoe's GitHub stats"
     />
-</a>
+</div>
